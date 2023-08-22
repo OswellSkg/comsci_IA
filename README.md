@@ -10,12 +10,12 @@ https://www.zmescience.com/ecology/green-living/second-hand-clothes-12042022/
 The client, person A is currently a student at an international school in Tokyo. She is currently undertaking AP courses and has experienced overcoming various academic challenges throughout her Grades 11 and 12 years. However, one challenge still stands, of which is more of a personal challenge: Sleep schedule. Since a young age, the client has been developing a habit of sleeping very late, and although they have figured out a way of ensuring that such a habit does not disturb their academic performance, the client is still concerned about her health consequences. 
 
 ## Success Criteria
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. The client is able to input sleep data into the application (Input & Save)
+2. The application is able to present a calendar that indicates the sleep hour of each day
+3. The application can also indicate the quality of sleep per day with three colors on the calendar (Red, Yellow, and Green)
+4. The client is able to set a weekly goal of the total amount of sleep they want to achieve
+5. The application will take a record of how many times the client failed or succeeded to achieve their weekly goal
+6. The application resets the goal every week for the client to update it
 
 
 ## Design Statement 
