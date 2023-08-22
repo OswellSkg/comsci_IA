@@ -7,7 +7,7 @@ https://www.zmescience.com/ecology/green-living/second-hand-clothes-12042022/
 
 ## Problem definition
 
-
+The client, person A is currently a student at an international school in Tokyo. She is currently undertaking AP courses and has experienced overcoming various academic challenges throughout her Grades 11 and 12 years. However, one challenge still stands, of which is more of a personal challenge: Sleep schedule. Since a young age, the client has been developing a habit of sleeping very late, and although they have figured out a way of ensuring that such a habit does not disturb their academic performance, the client is still concerned about her health consequences. 
 
 ## Success Criteria
 1. 
