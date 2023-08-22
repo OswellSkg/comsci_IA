@@ -19,7 +19,8 @@ The client, person A is currently a student at an international school in Tokyo.
 
 
 ## Design Statement 
-The website will be a social networking service about sharing used clothes and is constructed using the HTML, CSS, SQLite, Python and Flask on Pycharm for myself who will use it for my school, and students who want to share used clothes that they would otherwise throw away. It will take 4-5 weeks to make and will be evaluated according to the criteria A, B, C, D, E as seen in the [link](https://docs.google.com/spreadsheets/d/1B3HfHEN7qSuDfxGyv4nNJefHmbGMWLu9FOd9l2NEqSw/edit?usp=sharing).
+
+The application will be a sleep schedule tracker in which the client is able to record their sleep performances every day. It will be constructed using Python, KivyMD, and SQLite on Pycharm for my client for personal use. It will take 4-5 weeks to code, and will be evaluated according to the criteria A, B, C, D, E as seen in the [link](https://docs.google.com/spreadsheets/d/1B3HfHEN7qSuDfxGyv4nNJefHmbGMWLu9FOd9l2NEqSw/edit?usp=sharing).
 
 
 
