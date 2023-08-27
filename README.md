@@ -9,6 +9,13 @@ https://www.zmescience.com/ecology/green-living/second-hand-clothes-12042022/
 
 The client, person A is currently a student at an international school in Tokyo. She is currently undertaking AP courses and has experienced overcoming various academic challenges throughout her Grades 11 and 12 years. However, one challenge still stands, of which is more of a personal challenge: Sleep schedule. Since a young age, the client has been developing a habit of sleeping very late, and although they have figured out a way of ensuring that such a habit does not disturb their academic performance, the client is still concerned about her health consequences. 
 
+## Rationale for Proposed Solution
+
+
+## Design Statement 
+
+The application will be a sleep schedule tracker in which the client is able to record their sleep performances every day. It will be constructed using Python, KivyMD, and SQLite on Pycharm for my client for personal use. It will take 4-5 weeks to code, and will be evaluated according to the criteria A, B, C, D, E as seen in the [link](https://docs.google.com/spreadsheets/d/1B3HfHEN7qSuDfxGyv4nNJefHmbGMWLu9FOd9l2NEqSw/edit?usp=sharing).
+
 ## Success Criteria
 1. The client is able to input sleep data into the application (Input & Save)
 2. The application is able to present a calendar that indicates the sleep hour of each day
@@ -17,15 +24,6 @@ The client, person A is currently a student at an international school in Tokyo.
 5. The application will take a record of how many times the client failed or succeeded to achieve their weekly goal
 6. The application resets the goal every week for the client to update it
 7. The application graphically analyzes the sleeping trend of the client
-
-
-## Design Statement 
-
-The application will be a sleep schedule tracker in which the client is able to record their sleep performances every day. It will be constructed using Python, KivyMD, and SQLite on Pycharm for my client for personal use. It will take 4-5 weeks to code, and will be evaluated according to the criteria A, B, C, D, E as seen in the [link](https://docs.google.com/spreadsheets/d/1B3HfHEN7qSuDfxGyv4nNJefHmbGMWLu9FOd9l2NEqSw/edit?usp=sharing).
-
-
-
-## Rationale for Proposed Solution
 
 
 
