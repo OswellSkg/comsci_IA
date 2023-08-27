@@ -1,7 +1,8 @@
 # Computer Science: Internal Assessment
 
-![markus-spiske-oEoe-qfymZQ-unsplash](https://user-images.githubusercontent.com/112055140/231961163-ba038990-c3c1-4c13-a9c1-ae0a113c5d81.jpg)
-https://www.zmescience.com/ecology/green-living/second-hand-clothes-12042022/  
+![sleep-tired-1](https://github.com/OswellSkg/comsci_IA/assets/112055140/bb927204-4363-4660-8379-31ba697933ea)
+
+https://tenor.com/view/sleep-tired-gif-23650631
 
 # Criteria A: Planning
 
