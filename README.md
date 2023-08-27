@@ -16,6 +16,7 @@ The client, person A is currently a student at an international school in Tokyo.
 4. The client is able to set a weekly goal of the total amount of sleep they want to achieve
 5. The application will take a record of how many times the client failed or succeeded to achieve their weekly goal
 6. The application resets the goal every week for the client to update it
+7. The application graphically analyzes the sleeping trend of the client
 
 
 ## Design Statement 
