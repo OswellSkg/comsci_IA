@@ -26,9 +26,9 @@ The application will be a sleep schedule tracker in which the client is able to 
 6. The application resets the goal every week for the client to update it
 7. The application graphically analyzes the sleeping trend of the client
 
-Success criteria 1, and 2 will solve the client's first problem of having a "hard time keeping track of her sleep schedule"
-Success criteria 3 and 7 will solve the client's second problem of being "not fully convinced of her terrible sleep schedule"
-Success criteria 4, 5, and 6 will solve the client's third problem of being "very forgetful of the motivation to better her sleep schedule"
+Success criteria 1, and 2 will solve the client's first problem of having a "hard time keeping track of her sleep schedule" <br>
+Success criteria 3 and 7 will solve the client's second problem of being "not fully convinced of her terrible sleep schedule" <br>
+Success criteria 4, 5, and 6 will solve the client's third problem of being "very forgetful of the motivation to better her sleep schedule" <br>
 
 
 # Criteria B: Design
