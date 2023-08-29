@@ -8,7 +8,7 @@ https://tenor.com/view/sleep-tired-gif-23650631
 
 ## Problem definition
 
-The client, person A is currently a student at an international school in Tokyo. She is currently undertaking AP courses and has experienced overcoming various academic challenges throughout her Grades 11 and 12 years. However, one challenge still stands, of which is more of a personal challenge: Sleep schedule. Since a young age, the client has been developing a habit of sleeping very late, and although they have figured out a way of ensuring that such a habit does not disturb their academic performance, the client is still concerned about her health consequences. 
+The client, person A is currently a high school student at an international school in Tokyo. Since a young age, she has been developing a habit of sleeping very late, such habit has not changed. However, given that high school is a crucial stage in her educational career, she is willing to correct it. She has several problems that she faces when she attempts to resolve this issue. Firstly, she has a hard time keeping track of her sleep schedule and ends up having daytime naps that only worsen her sleep schedule even more. Secondly, she is not fully convinced of her terrible sleep schedule. "solution: provide a dataset and compare her sleepschedule to the amount of sleep deemed necessary to stay healthy." Thirdly and finally, the client is very forgetful of the motivation to better their sleep schedule. These problems contributes to her terrible sleep schedule, and only reinforces in such a way that worsens it. 
 
 ## Rationale for Proposed Solution
 
