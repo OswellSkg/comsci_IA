@@ -1,3 +1,4 @@
+# NightlyInsight
 # Computer Science: Internal Assessment
 
 ![sleep-tired-1](https://github.com/OswellSkg/comsci_IA/assets/112055140/bb927204-4363-4660-8379-31ba697933ea)
