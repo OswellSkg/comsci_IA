@@ -51,11 +51,13 @@ This system diagram visually represents the system as well as the components of 
 The wireframe diagram above is a visual representation of the application GUI structure. It consists of Login, Home, Calendar, Register, and Data screen. The arrow represents which button leads to which screen. 
 
 ## ER Diagram
-![ERDiagram](https://user-images.githubusercontent.com/112055140/224467205-32d45dc4-d483-4cfe-8375-d80b91c071e4.jpg)
 
-<i>Fig. 3</i> This is the ER Diagram showing the two tables: users, kanji_database.
+![Wireframe Diagram-Page-3](https://github.com/OswellSkg/comsci_IA/assets/112055140/58f7f7ef-5453-40b2-9c5f-0ac3fd5946d9)
 
-The users table of the kanji_app.db database of the application will record the registered users for the application. It will record the id of the user in an integer format, the username as a string format, the email as a string format, and finally the password as a string format. However, the password is hashed before recorded into the users table for security reasons. Therefore, neither the developers or data breachers will have access to the original password of the user. The kanji_database table of the same database includes id in an integer format, and user_id, kanji, hiragana, katakana, and meaning as string format. 
+
+<i>Fig. 3</i> This is the ER Diagram showing the two tables: users, and sleep_data.
+
+The user's table of the NightlyInsight will store the user's username as a string, password as a string, as well as their weekly goal of sleep as an integer, and finally id them. The password will be hashed for security reasons. The sleep_data will gather data of the user_id to distinguish which user's sleep the data belongs to as an integer, the amount of sleep as an integer, as well as the date of the sleep as a string. 
 
 ## UML Diagram
 ![UMLDiagram](https://user-images.githubusercontent.com/112055140/224467215-48ffd13d-b67a-4005-a974-73ca24678e59.png)
