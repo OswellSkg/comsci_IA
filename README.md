@@ -66,25 +66,6 @@ The user's table of the NightlyInsight will store the user's username as a strin
 
 The UML diagram shown above provides informations regarding the classes and methods used throughout the development of the app. Parenting classes are MDApp, MDScreen, MDExpansionPanelThreeLine, and finally the MDBoxLayout. Each classes contains methods in each screen necessary for the application to function. Finally, the database_handler contains methods required for the application to connect and modify the kanji_app.db SQLite database. 
 
-## Flow Diagrams
-![Oswell-2](https://github.com/OswellSkg/Unit4-Respository/assets/112055140/94d45e54-08e9-42ae-981c-a847b4a7fbbb)
-
-<i>Fig. 5</i> This is the flow diagram that details the process of how the try_add method from AddKanjiScreen works. 
-
-This method is used to append the kanji, hiragana, katakana, and meaning inputs from the user into the kanji_database table of the kanji_app.db database. The method first converts the input to local variables, as well as taking the user_id of the user logged in, to make the data exclusive to that specific user. Next, it opens access to the database with the database_handler, and append the local variables with a specially generated query named “add_kanji.” Finally, it runs the query, closes the database, notifies toe user that the Kanji has been added, and empties all the inputs for the next input. And that is the end of the method. 
-
-![Oswell-3](https://github.com/OswellSkg/Unit4-Respository/assets/112055140/d2f5b145-ea17-4773-9e52-e721d07a2c74)
-
-<i>Fig. 6</i> This is the flow diagram that details the process of how the update method from DeleteKanjiScreen works. 
-
-This method is used to update a table that lists all the datas from kanji_database table in kanji_app,db database. The method will first take the user_id of the user logged in. It will then open the kanji_app.db database, and SELECT all datas that are specific to the user_id of the user that is logged in. Then, it will append all the results into a local variable “results” and close the database. Following that, it will create a list named “data,” and for every data in the results variable, it will take the kanji, hiragana, katakana variables and convert them into a Japanese font, and add it to a new list variable created earlier, “data.” Then, it will update the table accordingly. This way, all of the datas shown on the table is 1) user exclusive, and 2) converted to a Japanese font, hence preventing any display errors.
-
-![Oswell-4](https://github.com/OswellSkg/Unit4-Respository/assets/112055140/d7cd9e99-44be-47ea-accb-8a0028d542e8)
-
-<i>Fig. 7</i> This is the flow diagram that details the process of how the save method from the DeleteKanjiScreen works.
-
-This method is used to delete any data from the kanji_database table from the kanji_app.db database. The way it works is that, on a table shown on the screen, the user can click on the data that they want to delete. This will be recorded as checked_rows, and will be used later to select the datas to delete in the uniquely generated query. The method will then open the database, and go through a for look that for every data in checked_rows, it will repeat the process of identifying the ID of the selected data, and using that to identify what data to delete from the database in a query, and running the query. This will be repeated until there are no more datas left in the checked_rows, and then will finally move on to close the database. It will then update the table so that the change is reflected upon without the user having to run the whole program again.
-
 ## Test Plan
 
 | Test No. | Type of Test                                                                                                                    | Date     | Procedure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Expected Outcome                                                                                                                                                                          |
