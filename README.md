@@ -35,18 +35,20 @@ Success criteria 4, 5, and 6 will solve the client's third problem of being "ver
 # Criteria B: Design
 
 ## System Diagram
-![SystemDiagram](https://user-images.githubusercontent.com/112055140/224467199-91b2e028-3c59-4e94-975f-ad9bdb0c72af.jpg)
 
-<i>Fig. 1</i> This is the system diagram for the proposed solution.
+![Wireframe Diagram-Page-1 drawio](https://github.com/OswellSkg/comsci_IA/assets/112055140/f64ddc6d-5d0b-4e31-8a3d-9bda5c710160)
 
-This system diagram shown above is for the application proposed as the solution. It visually represents the system as well as its components. In general, it serves to clarify the relationships between the components, and making it easier to understand overall how it works. The application will use KanjiApp.py from Python and KanjiApp.kv from KivyMD for the GUI and functions, while we use kanji_app.db from SQLite to store any user inputs. This will all be able to be executed through the PyCharm application, and will be displayed using a screen. 
+<i>Fig. 1</i> This is the system diagram for the application.
+
+This system diagram visually represents the system as well as the components of the application that will be programmed. It clarifies relationships between compenents. For instance, it is clear from the diagram that the NightlyInsight.db database will bilaterally connect to app's both python and kivyMD files. These programs will be receiving input from the keyboard and outputting through the laptops screen.
 
 ## Wireframe Diagram 
-![Oswell-1](https://github.com/OswellSkg/Unit4-Respository/assets/112055140/49242b3c-2e0b-4ab5-8a85-eead3eec1d81)
+
+<img width="542" alt="Screen Shot 2023-11-04 at 13 40 45" src="https://github.com/OswellSkg/comsci_IA/assets/112055140/bdb07a2e-3f78-4825-a6f5-f20897c635ef">
 
 <i>Fig. 2</i> This is the wireframe for the application. 
 
-The wireframe diagram above is a visual representation of the application GUI structure. It clarifies the functions of each buttons within the GUI, ignoring the python functions. It serves to provide a broad overview of the application as well as a thorough and in-depth understanding of the structure of its GUI. The arrows extending from buttons will represent what screen the button will take you to. For instance, the REGISTRATION button in the LoginScreen will take you to the RegistrationScreen whereas the LOG IN button if the same LoginScreen will take you to the HomeScreen(when correct username and password are entered). 
+The wireframe diagram above is a visual representation of the application GUI structure. It consists of Login, Home, Calendar, Register, and Data screen. The arrow represents which button leads to which screen. 
 
 ## ER Diagram
 ![ERDiagram](https://user-images.githubusercontent.com/112055140/224467205-32d45dc4-d483-4cfe-8375-d80b91c071e4.jpg)
