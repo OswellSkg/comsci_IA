@@ -17,22 +17,22 @@ As a solution to the client's problem, the proposed solution is a desktop applic
 
 ## Success Criteria
 1. The application allows the client to enter sleep data (hours of sleep) and record it(save it)
-[issue tackled: "hard time keeping track of her sleep schedule"]
+<br>`[issue tackled: "hard time keeping track of her sleep schedule"]`
 
-2. The application is able to present a calendar that indicates the sleep hours of each day
-[issue tackled: "hard time keeping track of her sleep schedule"]
+3. The application is able to present a calendar that indicates the sleep hours of each day
+<br>`[issue tackled: "hard time keeping track of her sleep schedule"]`
 
-3. The application can also indicate the quality of sleep per day with three colors on the calendar (Red, Yellow, and Green)
-[issue tackled: "not fully convinced that her sleep schedule is detrimental"]
+4. The application can also indicate the quality of sleep per day with three colors on the calendar (Red, Yellow, and Green)
+<br>`[issue tackled: "not fully convinced that her sleep schedule is detrimental"]`
 
-4. The application allows the client to set weekly goals and track the progress
-[issue tackled: "gets demotivated very easily to improve her sleep schedule"]
+5. The application allows the client to set weekly goals and track the progress
+<br>`[issue tackled: "gets demotivated very easily to improve her sleep schedule"]`
 
-5. The application graphically analyzes the sleeping trend of the client (Compare the client's sleep with a linear model of minimum necessary sleep -> times x hours of sleep
-[issue tackled: "gets demotivated very easily to improve her sleep schedule"]
+6. The application graphically analyzes the sleeping trend of the client (Compare the client's sleep with a linear model of minimum necessary sleep -> times x hours of sleep
+<br>`[issue tackled: "gets demotivated very easily to improve her sleep schedule"]`
 
-6. The application provides a secure profile page for the client
-[issue tackled: "highly concerned about her privacy"]
+7. The application provides a secure profile page for the client
+<br>`[issue tackled: "highly concerned about her privacy"]`
 
 
 # Criteria B: Design
