@@ -19,15 +19,23 @@ As a solution to the client's problem, I will propose a mobile application that 
 The application will be a sleep schedule tracker in which the client can record their sleep performances every day. It will be constructed using Python, KivyMD, and SQLite on Pycharm for my client for personal use. It will take 4-5 weeks to code and will be evaluated according to the criteria A, B, C, D, and E as seen in the [link](https://docs.google.com/spreadsheets/d/1B3HfHEN7qSuDfxGyv4nNJefHmbGMWLu9FOd9l2NEqSw/edit?usp=sharing).
 
 ## Success Criteria
-1. The application allows the client to enter sleep data (hours of sleep) and record it(save it) [issue tackled: "hard time keeping track of her sleep schedule"]
-2. The application is able to present a calendar that indicates the sleep hours of each day [issue tackled: "hard time keeping track of her sleep schedule"]
-3. The application can also indicate the quality of sleep per day with three colors on the calendar (Red, Yellow, and Green) [issue tackled: "not fully convinced that her sleep schedule is detrimental"]
-4. The application allows the client to set weekly goals and track the progress [issue tackled: "gets demotivated very easily to improve her sleep schedule"]
-5. The application graphically analyzes the sleeping trend of the client (Compare the client's sleep with a linear model of minimum necessary sleep -> times x hours of sleep) [issue tackled: "gets demotivated very easily to improve her sleep schedule"]
-6. The application provides a secure profile page for the client [issue tackled: "highly concerned about her privacy"]
+1. The application allows the client to enter sleep data (hours of sleep) and record it(save it)
+[issue tackled: "hard time keeping track of her sleep schedule"]
 
-Success criteria 3 and 7 will solve the client's second problem of being "not fully convinced of her terrible sleep schedule" <br>
-Success criteria 4, 5, and 6 will solve the client's third problem of being "very forgetful of the motivation to better her sleep schedule" <br>
+2. The application is able to present a calendar that indicates the sleep hours of each day
+[issue tackled: "hard time keeping track of her sleep schedule"]
+
+3. The application can also indicate the quality of sleep per day with three colors on the calendar (Red, Yellow, and Green)
+[issue tackled: "not fully convinced that her sleep schedule is detrimental"]
+
+4. The application allows the client to set weekly goals and track the progress
+[issue tackled: "gets demotivated very easily to improve her sleep schedule"]
+
+5. The application graphically analyzes the sleeping trend of the client (Compare the client's sleep with a linear model of minimum necessary sleep -> times x hours of sleep
+[issue tackled: "gets demotivated very easily to improve her sleep schedule"]
+
+6. The application provides a secure profile page for the client
+[issue tackled: "highly concerned about her privacy"]
 
 
 # Criteria B: Design
