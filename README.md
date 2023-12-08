@@ -47,11 +47,11 @@ This system diagram visually represents the system as well as the components of 
 
 ## Wireframe Diagram 
 
-<img width="542" alt="Screen Shot 2023-11-04 at 13 40 45" src="https://github.com/OswellSkg/comsci_IA/assets/112055140/bdb07a2e-3f78-4825-a6f5-f20897c635ef">
+|[NightlyInsight Wireframe Diagram-1](https://github.com/OswellSkg/comsci_IA/assets/112055140/84be2761-a3fd-49ca-80eb-4bc8f2e14742)
 
 <i>Fig. 2</i> This is the wireframe for the application. 
 
-The wireframe diagram above is a visual representation of the application GUI structure. It consists of a Login, Home, Calendar, Register, and Data screen. The arrow represents which button leads to which screen. 
+The wireframe diagram above is a visual representation of the application GUI structure. It consists of a Login, Register, and Home screen. The arrow represents which button leads to which screen. 
 
 ## ER Diagram
 
