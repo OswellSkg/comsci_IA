@@ -47,7 +47,7 @@ This system diagram visually represents the system as well as the components of 
 
 ## Wireframe Diagram 
 
-|[NightlyInsight Wireframe Diagram-1](https://github.com/OswellSkg/comsci_IA/assets/112055140/84be2761-a3fd-49ca-80eb-4bc8f2e14742)
+![NightlyInsight Wireframe Diagram-1](https://github.com/OswellSkg/comsci_IA/assets/112055140/1a1390a0-c473-4b4f-955c-7beb1e91ed88)
 
 <i>Fig. 2</i> This is the wireframe for the application. 
 
